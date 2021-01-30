@@ -1,8 +1,7 @@
-# together
-
-A new Flutter application.
-
+# Telegram clone
+telegram UI clone in flutter.
 ## Getting Started
+you can use this code without no license or copyrights.
 
 This project is a starting point for a Flutter application.
 
